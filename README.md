@@ -8,4 +8,4 @@ This repository contains code for the following arenas:
   * Tesla Tesoro
 
 ## Credits
-* Sean Yeo (https://github.com/SeanYeoTE)
+*JDCR (https://github.com/JDCRecomendable)
